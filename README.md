@@ -1,12 +1,24 @@
-# React + Vite
+# MoodHub 🎭
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MoodHub is a modern and immersive mood-based entertainment discovery platform built using React. The app dynamically curates and presents content based on the user's emotional state, offering a personalized experience through movies, shows, music, podcasts, books, and more.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎨 **Mood-Based Categories** – Select from moods like Happy, Chill, Romantic, Energetic, and Melancholy.
+- ⚡ **Curated Content** – AI-inspired recommendations based on mood selections.
+- 📱 **Responsive UI** – Mobile-first design with fluid transitions and visually rich elements.
+- 💬 **Testimonials** – Real user feedback to showcase platform impact.
+- 📩 **Newsletter Subscription** – Collect user emails with consent for tailored recommendations.
+- 📚 **Diverse Media Types** – Supports Movies, TV Shows, Music, Podcasts, Books & Audiobooks.
+- 🌍 **Global Content Access** – Curations reflect worldwide cultural relevance.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React (with Hooks)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Styling**: TailwindCSS
+- **Animations**: Custom keyframes with `@keyframes`
+- **Assets**: Images sourced from [Unsplash](https://unsplash.com)
+
+
+
